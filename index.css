@@ -10,12 +10,11 @@ body{
 img{
     display: block;
     margin: 0 auto;
-    width: 600px;
-    max-width: 100%;
-    border-radius: 50px;
+    width: 1200px;
+    border-radius: 20px
 }
 figcaption{
-    font-size: 41px;
+    font-size: 28px;
     text-align: center;
     padding-top: 25px;
     color: grey;
@@ -23,8 +22,11 @@ figcaption{
 #p1{
     font-size: 18px;
     column-count: 2;
-    padding: 10px 10px;
     column-gap: 55px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    margin: auto;
 }
 div{
     font-size: 18px;
@@ -35,20 +37,18 @@ div{
     
 }
 #last{
-    font-size: 18px;
+    font-size: 17px;
     text-align: left;
     float: left;
     column-count: 2;
-    column-gap: 55px;
+    column-gap: 65px;
     font-family: 'Lora', serif;
-    padding-left: 20px;
-}
-#last2{
-    padding-top: 20px;
-    padding-right: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px
 }
 blockquote{
-    font-size: 30px;
+    font-size: 24px;
 }
 html{
     
