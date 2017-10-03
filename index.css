@@ -10,6 +10,7 @@ body{
 img{
     display: block;
     margin: 0 auto;
+    width: 600px;
     max-width: 100%;
     border-radius: 50px;
 }
@@ -30,6 +31,7 @@ div{
     font-family: sans-serif;
     text-align: center;
     padding-bottom: 20px;
+    margin: auto;
     
 }
 #last{
@@ -47,4 +49,7 @@ div{
 }
 blockquote{
     font-size: 30px;
+}
+html{
+    
 }
